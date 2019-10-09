@@ -1,0 +1,32 @@
+body {
+  background-image: url("paper.png");
+  margin-bottom: 100px;
+  border-top: 10px solid #0E8181;
+  border-bottom: 10px solid #0E8181;
+  margin: 0px;
+  font-family:helvetica;
+
+}
+
+.lip {
+  line-height: 22px;color: #0E8181;
+}
+
+h1 { font-size: 65px;
+line-height:55px ;
+margin-bottom: 5px;
+margin-top: 5px;
+}
+
+h3{ line-height: 0px;}
+
+.hello { color: #0E8181;
+  margin-top: 3px;
+  text-decoration: underline;color: #0E8181;
+}
+
+.go{ text-decoration: underline;color: black;
+margin-top: 0px;
+margin-bottom: 0px;}
+.yoohoo {margin-top: 0px;
+margin-bottom: 0px;}
